@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "jungle-safari-57c0a": {
+      "hosting": {
+        "tic-tac": [
+          "jungle-safari-57c0a"
+        ]
+      }
+    }
+  }
+}
